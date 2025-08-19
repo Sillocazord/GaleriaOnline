@@ -1,0 +1,3 @@
+C:\Users\59963156886\Desktop\GaleriaOnline\Galeria Online\GaleriaOnline.WebApi\wwwroot\imagens\9a9d0ab7-47f1-4f73-bf84-59e85cc1185d.jpg
+C:\Users\59963156886\Desktop\GaleriaOnline\Galeria Online\GaleriaOnline.WebApi\wwwroot\imagens\b5aaf45b-68c4-42f3-a2cc-44f7f2e3d10e.png
+C:\Users\59963156886\Desktop\GaleriaOnline\Galeria Online\GaleriaOnline.WebApi\wwwroot\imagens\c7e4e3c9-adb1-48c3-9017-a786635cf63c.jpg
