@@ -1,3 +1,4 @@
+wwwroot\imagens\365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg
 wwwroot\imagens\742930b6-20d3-4612-a5c3-0638abc6d78e.jpg
 wwwroot\imagens\985b478e-f305-4546-aa7c-ac0d6ba922bf.jpg
 wwwroot\imagens\c129d85f-c67f-442b-8731-0f03271e6a2c.jpg

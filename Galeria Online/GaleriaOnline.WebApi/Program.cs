@@ -35,6 +35,8 @@ if (app.Environment.IsDevelopment())
 
 
 // A SEQUENCIA IMPORTA MUITO MEU FÍ, CUIDADO PRA NÃO SER DEDIN NERVOSO
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 
 app.UseCors("CorsPolicy");

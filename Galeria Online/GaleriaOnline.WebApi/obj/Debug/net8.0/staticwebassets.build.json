@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RS6CJwGmKnW4o18u7nRzlOfKImnaBIY8eGzzMDRViW4=",
+  "Hash": "A0wBhd4EtB9oDLzWy2UA+BixnxWS+2+TaRoM3K9nbvE=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\59963156886\\Desktop\\GaleriaOnline\\Galeria Online\\GaleriaOnline.WebApi\\wwwroot\\imagens\\365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\59963156886\\Desktop\\GaleriaOnline\\Galeria Online\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/365c70b1-e3e9-469f-85f2-1a16b199b4f1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dj1rdr9yah",
+      "Integrity": "ick5YrV52zsCS2cIBGR7b4Dm0bItFhDK0euxfk3+dzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg"
+    },
     {
       "Identity": "C:\\Users\\59963156886\\Desktop\\GaleriaOnline\\Galeria Online\\GaleriaOnline.WebApi\\wwwroot\\imagens\\742930b6-20d3-4612-a5c3-0638abc6d78e.jpg",
       "SourceId": "GaleriaOnline.WebApi",
@@ -124,6 +145,88 @@
   ],
   "Endpoints": [
     {
+      "Route": "imagens/365c70b1-e3e9-469f-85f2-1a16b199b4f1.dj1rdr9yah.jpeg",
+      "AssetFile": "C:\\Users\\59963156886\\Desktop\\GaleriaOnline\\Galeria Online\\GaleriaOnline.WebApi\\wwwroot\\imagens\\365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ick5YrV52zsCS2cIBGR7b4Dm0bItFhDK0euxfk3+dzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dj1rdr9yah"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ick5YrV52zsCS2cIBGR7b4Dm0bItFhDK0euxfk3+dzw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg",
+      "AssetFile": "C:\\Users\\59963156886\\Desktop\\GaleriaOnline\\Galeria Online\\GaleriaOnline.WebApi\\wwwroot\\imagens\\365c70b1-e3e9-469f-85f2-1a16b199b4f1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ick5YrV52zsCS2cIBGR7b4Dm0bItFhDK0euxfk3+dzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ick5YrV52zsCS2cIBGR7b4Dm0bItFhDK0euxfk3+dzw="
+        }
+      ]
+    },
+    {
       "Route": "imagens/742930b6-20d3-4612-a5c3-0638abc6d78e.jpg",
       "AssetFile": "C:\\Users\\59963156886\\Desktop\\GaleriaOnline\\Galeria Online\\GaleriaOnline.WebApi\\wwwroot\\imagens\\742930b6-20d3-4612-a5c3-0638abc6d78e.jpg",
       "Selectors": [],
@@ -146,7 +249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:49:32 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -183,7 +286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:49:32 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -228,7 +331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 19:41:27 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -265,7 +368,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 19:41:27 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -310,7 +413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:52:47 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -347,7 +450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:52:47 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -392,7 +495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:56:16 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -437,7 +540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:56:16 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -474,7 +577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:53:00 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -511,7 +614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:53:00 GMT"
+          "Value": "Thu, 21 Aug 2025 11:49:29 GMT"
         },
         {
           "Name": "Cache-Control",
